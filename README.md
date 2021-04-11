@@ -1,6 +1,6 @@
 # An Intrduction to Bitcoin
 
-[What is Money](What-is-Money.md)
+[What is Money](What-Is-Money.md)
 
 ## What is Money
 People often confuse currency (dollars, pounds, yen, etc.) with money. Money is actually an abstract concept, with a few attributes, that currency sometimes can satisfy. It is more accurate to say that money is a language that people use to represent, store, and transmit value.
