@@ -1,0 +1,2 @@
+### Bitcoin uses too much energy / Bitcoin will boil the Earth’s oceans with it’s CO2
+While it is true that Bitcoin uses a tremendous amount of energy, this line of objection is extremely misleading. Bitcoin mining always seeks the lowest cost energy. Here in the US, the cheapest energy is what’s known as stranded energy. Stranded energy includes things like flare gas and renewable curtailment (such as when a wind farm produces more than can be consumed). This is effectively free energy, since without pushing it through a Bitcoin miner, it would otherwise be totally lost.
