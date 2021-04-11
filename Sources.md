@@ -1,6 +1,6 @@
 # Sources
 ## Books
-1. The Bitcoin Standard, Saifedean Ammous: [http://bit.ly/Bitcoin-Standard](http://bit.ly/Bitcoin-Standard)
+1. The Bitcoin Standard, Saifedean Ammous: [http://bit.ly/Bitcoin-Standard]
 2. Layered Money, Nik Bhatia: [http://bit.ly/Layered-Money]
 3. Thank God for Bitcoin, Jimmy Song: [http://bit.ly/Thank-God-for-Bitcoin]
 
