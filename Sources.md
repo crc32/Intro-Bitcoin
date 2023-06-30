@@ -1,32 +1,24 @@
-# Software & Tools
-(These are presented as affiliate links, if I have one)
-
+# Sources, Extended Reading, and Tools
 ## Getting Bitcoin
-1. Swan Bitcoin, one of the best Dollar Cost Average (DCA) platforms out there. [https://www.swanbitcoin.com/crc32](https://www.swanbitcoin.com/crc32)
-2. Strike, possibly the easiest and cheapest way to get bitcoin, and send to others. $5 for signing up with my code: 8JZ9XT [https://invite.strike.me/8JZ9XT](https://invite.strike.me/8JZ9XT)
-3. Cash App, not the best or cheapest, but easy to use [https://cash.app](https://cash.app)
-4. Fold Card, a prepaid debit card to earn bitcoin on every-day purchases. [https://use.foldapp.com/r/CVLVFNUU](https://use.foldapp.com/r/CVLVFNUU)
-5. River Financial, another low-fee place to buy Bitcoin [https://river.com/signup?r=WBG4T5EB](https://river.com/signup?r=WBG4T5EB)
+1. Strike, possibly the easiest and cheapest way to get bitcoin, and send to others. [https://invite.strike.me/8JZ9XT](https://invite.strike.me/8JZ9XT) (affiliate link)
+2. Cash App, not the best or cheapest, but easy to use [https://cash.app](https://cash.app)
+3. River Financial, another low-fee place to buy Bitcoin [https://river.com/signup?r=WBG4T5EB](https://river.com/signup?r=WBG4T5EB) (affiliate link)
 
 ## Holding Bitcoin
 ### Software Wallets
 1. BlueWallet, good basic wallet for iOS or Android. Can do both Lightning and On-Chain. [https://bluewallet.io](https://bluewallet.io)
-2. Breez Wallet, in beta (as of 2021-10-06), but extremely easy Lightning wallet. Has a good Point-Of-Sale mode as well. [https://breez.technology/](https://breez.technology/)
-3. Muun Wallet [https://muun.com/](https://muun.com/)
+2. Wallet of Satoshi, another good basic lightning wallet. [https://www.walletofsatoshi.com/](https://www.walletofsatoshi.com/)
+3. Sparrow Wallet, one of the best desktop wallets. [https://sparrowwallet.com/](https://sparrowwallet.com/)
 
 
 ### Hardware Wallets
-0. *NOTE: ALWAYS buy hardware wallets from the manufacturer! Otherwise you will not be sure it hasn't been tampered with!*
-1. BitBox02, my favorite hardware wallet, but no iOS app. [https://shiftcrypto.ch/guy](https://shiftcrypto.ch/guy)
-2. Ledger, also extremely easy to use, has an iOS app. [https://www.ledger.com/](https://www.ledger.com/)
-3. Trezor, another perennial favorite. [https://trezor.io/](https://trezor.io/)
-4. ColdCard, a great wallet, but harder to use, better for more advanced users. [https://coinkite.com/](https://coinkite.com/)
+1. **NOTE: ALWAYS buy hardware wallets from the manufacturer! Otherwise you will not be sure it hasn't been tampered with!**
+2. ColdCard, a great wallet, but harder to use, better for more advanced users. [https://coinkite.com/](https://coinkite.com/) (As of 06/01/2023, this is the only one I can currently recommend)
 
-
-# Sources
 ## Websites
 1. Jameson Lopp's Bitcoin Resources [https://www.lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html)
 2. Jameson Lopp's Lightning Network Resources [https://www.lopp.net/lightning-information.html](https://www.lopp.net/lightning-information.html)
+3. The Why Bitcoin Only repository [https://whybitcoinonly.com/](https://whybitcoinonly.com/)
 
 ## Books
 1. The Bitcoin Standard, Saifedean Ammous: [http://bit.ly/Bitcoin-Standard](http://bit.ly/Bitcoin-Standard)
@@ -53,14 +45,15 @@
 
 ## Podcasts / Interviews
 (Links are to the first episode if it’s a series)
-1. BitcoinTINA on Bitcoin (4+ part series): [http://bit.ly/BitcoinTINA](http://bit.ly/BitcoinTINA)
-2. What is Money - The Saylor Series (9+ part series): [http://bit.ly/Saylor-Money](http://bit.ly/Saylor-Money)
-3. BTC005: Bitcoin & Michael Saylor (single interview): [http://bit.ly/Saylor-TIP](http://bit.ly/Saylor-TIP)
-4. Bitcoin Audible (Guy Swann - Basically the best reader of Bitcoin Material): [https://bitcoinaudible.com](https://bitcoinaudible.com)
-	1. Guy's Take #49: [https://overcast.fm/+MYnw80eaE](https://overcast.fm/+MYnw80eaE)
-	2. Fraying of the Petrodollar System Part 1, by Lyn Alden: [https://overcast.fm/+MYnxSHraA](https://overcast.fm/+MYnxSHraA)
-	3. Fraying of the Petrodollar System Part 2, by Lyn Alden: [https://overcast.fm/+MYnyyHhs8](https://overcast.fm/+MYnyyHhs8)
-	4. The Cantillion Effect 2.0, by CK_snarks & Deniz Saat: [https://overcast.fm/+MYnzKEnTU](https://overcast.fm/+MYnzKEnTU)
+1. BTC005: Bitcoin & Michael Saylor (single interview): [https://fountain.fm/episode/EzFb9JLOroSfEO8nYfCp](https://fountain.fm/episode/EzFb9JLOroSfEO8nYfCp)
+2. BitcoinTINA on Bitcoin (4+ part series): [http://bit.ly/BitcoinTINA](http://bit.ly/BitcoinTINA)
+3. 1. Bitcoin Audible (Guy Swann - Basically the best reader of Bitcoin Material): [https://bitcoinaudible.com](https://bitcoinaudible.com)
+	2. Guy's Take #49: [https://fountain.fm/episode/wP7ILvwe2nAoQ6pVuFjG](https://fountain.fm/episode/wP7ILvwe2nAoQ6pVuFjG)
+	3. Fraying of the Petrodollar System Part 1, by Lyn Alden: [https://fountain.fm/episode/uEoES7jIN5Dmcyk93HKj](https://fountain.fm/episode/uEoES7jIN5Dmcyk93HKj)
+	4. Fraying of the Petrodollar System Part 2, by Lyn Alden: [https://fountain.fm/episode/5Zis86Vqj4RPHru6W1j7](https://fountain.fm/episode/5Zis86Vqj4RPHru6W1j7)
+	5. The Cantillion Effect 2.0, by CK\_snarks & Deniz Saat: [https://fountain.fm/episode/WvSsWNOuFXh1xElgNaWY](https://fountain.fm/episode/WvSsWNOuFXh1xElgNaWY)
+4. Bitcoin Audible - Bitcoin Basics Series: [https://fountain.fm/episode/DCVP9EDYmpAaUTwTcU21](https://fountain.fm/episode/DCVP9EDYmpAaUTwTcU21)
+5. What is Money - The Saylor Series (17 part series): [https://fountain.fm/episode/eumqR5JSyLx9ZPx9uoyv](https://fountain.fm/episode/eumqR5JSyLx9ZPx9uoyv) (This is a LONG one, over 26 hours of content, with tons of historical aspects, so not explicitly Bitcoin focused)
 
 ## YouTube & Videos
 1. BTC Sessions [https://www.youtube.com/c/BTCSessions](https://www.youtube.com/c/BTCSessions)
